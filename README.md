@@ -14,7 +14,6 @@ Desarrollador de software con experiencia en soluciones web usando Angular, .NET
 ### 📫 ¿Hablamos?
 - 📧 espinomaravic@gmail.com | espinomaravic@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/cesmar)
-- 💻 [Portafolio](https://tuweb.dev) *(si tienes uno)*
 
 ---
 _"La arquitectura es la estrategia del software."_ – Clean Architecture, Robert C. Martin
