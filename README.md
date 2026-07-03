@@ -3,7 +3,6 @@
 Desarrollador de software con experiencia en soluciones web usando Angular, .NET y SQL Server. Apasionado por la arquitectura limpia, el desarrollo escalable y las buenas prácticas en la nube.
 
 ### 🚀 Sobre mí
-- 🎯 Actualmente trabajo en **Tivit Perú**
 - 🧠 Aprendiendo sobre **arquitectura de software**, **AWS (SAA-C03)** y **CI/CD con GitHub Actions**
 - 💡 Interesado en microservicios, soluciones serverless y diseño centrado en el usuario
 - 🌎 Hablante nativo de español | Inglés intermedio
