@@ -8,7 +8,11 @@ Desarrollador Full Stack Senior con 13 años de experiencia construyendo y moder
 - 🌎 Hablante nativo de español | Inglés intermedio.
 
 ### 🛠️ Tecnologías principales
-<img src="https://skillicons.dev/icons?i=dotnet,cs,aws,angular,ts,js,html,css,react,github,postman,visualstudio,vscode,docker" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,aws,angular,ts,js,html,css,github,postman,visualstudio,vscode,docker,react,nodejs&perline=10" />
+  </a>
+</p>
 
 `SQL Server` · `SignalR` · `Google Maps API`
 
